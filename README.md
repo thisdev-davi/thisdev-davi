@@ -1,5 +1,5 @@
-# Davi Oliveira 👨🏽‍💻
+# Davi Oliveira
 
 `  Desenvolvedor FullStack  `
 
-Graduando em Ciência da Computação, atualmente aprofundando meus estudos em desenvolvimento Back-End com JavaScript, Python e TypeScript. Busco a primeira oportunidade na área de tecnologia. Tenho interesse em Desenvolvimento de Software e Machine Learning.
+Graduando em Ciência da Computação, atualmente aprofundando meus estudos em desenvolvimento com JavaScript, TypeScript e Python. Tenho interesse em Desenvolvimento de Software e Machine Learning.
